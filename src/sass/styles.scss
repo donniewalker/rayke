@@ -1,0 +1,28 @@
+// Navbar
+.navbar-fixed{
+  .nav-wrapper {
+    padding: 10px;
+    img {
+      width: 200px;
+    }
+  }
+}
+
+.menu-logo {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 10px;
+}
+
+// Home
+.valign-wrapper {
+  margin: 0px;
+  padding:0px;
+  float: left;
+  width:100%;
+  position:absolute;
+  top: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  left:50%;
+}
